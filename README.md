@@ -1,4 +1,4 @@
-# aula-2-introducao-a-programacao-inteligencia-artificial
+# Arquivos Introdução a programação de inteligência artificial
 Repositório de exercícios da graduação em IA UNIFAJ 
 
 Exercicios iniciais sobre operações matemáticas básicas com Python.
